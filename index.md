@@ -5,7 +5,6 @@
 <h2 align="center"> Benefícios das aulas </h2>
 
  <p align="center">Aulas de lógica de programação para crianças 8-10 anos através da criação de jogos!</p>
-<br></br>
 
  <p align="center"><br>Seu filho com o estímulo certo para o futuro!</br></p>
 
