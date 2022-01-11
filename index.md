@@ -5,11 +5,11 @@
 <h2 align="center"> Benefícios das aulas </h2>
 
 
- <br><p align="center">Aulas de lógica de programação para crianças 8-10 anos através da criação de jogos!</p></br>
+ <p align="center"><br>Aulas de lógica de programação para crianças 8-10 anos através da criação de jogos!</br></p>
 
- <br><p align="center">Seu filho com o estímulo certo para o futuro!</p></br>
+ <p align="center"><br>Seu filho com o estímulo certo para o futuro!</br></p>
 
- <br><p align="center">Além de estimular o raciocínio lógico, a programação estimula a criatividade e o senso de resolução de problemas.</p></br>
+ <p align="center"><br>Além de estimular o raciocínio lógico, a programação estimula a criatividade e o senso de resolução de problemas.</br></p>
 
 ```markdown
 
