@@ -1,15 +1,15 @@
 ### Prof Karin - Programação para crianças
 
-Imagine seu filho ou sua filha criando seus próprios jogos e aplicativos?
+ <p align="center">Imagine seu filho ou sua filha criando seus próprios jogos e aplicativos?</p>
 
 
 ### Benefícios das aulas
 
-Aulas de lógica de programação para crianças 8-10 anos através da criação de jogos!
+ <p align="center">Aulas de lógica de programação para crianças 8-10 anos através da criação de jogos!
 
 Seu filho com o estímulo certo para o futuro!
 
-Além de estimular o raciocínio lógico, a programação estimula a criatividade e o senso de resolução de problemas. 
+Além de estimular o raciocínio lógico, a programação estimula a criatividade e o senso de resolução de problemas.</p> 
 
 ```markdown
 
