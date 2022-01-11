@@ -1,9 +1,9 @@
-## Prof Karin - Programação para crianças
-
-Imagina seu filho ou sua filha criando seus próprios jogos e aplicativos?
+Imagine seu filho ou sua filha criando seus próprios jogos e aplicativos?
 
 
-### Aulas de lógica de programação para crianças 8-10 anos através da criação de  jogos!
+### Benefícios das aulas
+
+Aulas de lógica de programação para crianças 8-10 anos através da criação de jogos!
 
 Seu filho com o estímulo certo para o futuro!
 
@@ -12,13 +12,11 @@ Além de estimular o raciocínio lógico, a programação estimula a criatividad
 ```markdown
 
 
-# Aulas online
-# Uma vez por semana
-# Turmas reduzidas com no máximo 4 alunos
-# Preços acessíveis
+## Aulas online
+## Uma vez por semana
+## Turmas reduzidas com no máximo 4 alunos
+## Preços acessíveis
 
-
-[Link](url) and ![Image](src)
 ```
 ### Método Prof Karin
 
@@ -27,8 +25,9 @@ Com um conteúdo divertido e certo para a idade, as aulas são feitas uma vez po
 
 ### Primeira turma iniciando em Fevereiro.
 
+### Contato
 Entre em contato com a professora Karin para ter mais detalhes e tirar dúvidas. Não perca esta oportunidade!
 
-https://api.whatsapp.com/send?phone=5521991023219
+<a href = https://api.whatsapp.com/send?phone=5521991023219> Clique para conversar com a prof Karin no Whatsapp </a>
 
 
