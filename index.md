@@ -2,14 +2,15 @@
 
  <p align="center">Imagine seu filho ou sua filha criando seus próprios jogos e aplicativos?</p>
 
-
+```
 ### Benefícios das aulas
+```
 
- <p align="center">Aulas de lógica de programação para crianças 8-10 anos através da criação de jogos!</p>
+ <br><p align="center">Aulas de lógica de programação para crianças 8-10 anos através da criação de jogos!</p></br>
 
- <p align="center">Seu filho com o estímulo certo para o futuro!</p>
+ <br><p align="center">Seu filho com o estímulo certo para o futuro!</p></br>
 
- <p align="center">Além de estimular o raciocínio lógico, a programação estimula a criatividade e o senso de resolução de problemas.</p> 
+ <br><p align="center">Além de estimular o raciocínio lógico, a programação estimula a criatividade e o senso de resolução de problemas.</p></br>
 
 ```markdown
 
@@ -22,9 +23,9 @@
 ```
 ### Método Prof Karin
 
- <p align="center">Com um conteúdo divertido e certo para a idade, as aulas são feitas uma vez por semana em linguagem baseada em Javascript, uma das linguagens mais usadas em programação.</p>
+ <p align="center"><br>Com um conteúdo divertido e certo para a idade, as aulas são feitas uma vez por semana em linguagem baseada em Javascript, uma das linguagens mais usadas em programação.</br></p>
 
- <p align="center">É necessário ter um computador com aúdio, câmera e acesso a internet para que as aulas sejam feitas. Marque uma aula teste e tire todas as suas dúvidas!</p>
+ <p align="center"><br>É necessário ter um computador com aúdio, câmera e acesso a internet para que as aulas sejam feitas. Marque uma aula teste e tire todas as suas dúvidas!</br></p>
 
 ### Primeira turma iniciando em Fevereiro.
 
