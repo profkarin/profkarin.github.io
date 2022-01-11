@@ -2,9 +2,8 @@
 
  <p align="center">Imagine seu filho ou sua filha criando seus próprios jogos e aplicativos?</p>
 
-```
-### Benefícios das aulas
-```
+<p align="center">### Benefícios das aulas</p>
+
 
  <br><p align="center">Aulas de lógica de programação para crianças 8-10 anos através da criação de jogos!</p></br>
 
