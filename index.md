@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## Prof Karin - Programação para crianças
 
-You can use the [editor on GitHub](https://github.com/profkarin/profkarin.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Imagina seu filho ou sua filha criando seus próprios jogos e aplicativos?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Aulas de lógica de programação para crianças 8-10 anos através da criação de  jogos!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Seu filho com o estímulo certo para o futuro!
+
+Além de estimular o raciocínio lógico, a programação estimula a criatividade e o senso de resolução de problemas. 
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+# Aulas online
+# Uma vez por semana
+# Turmas reduzidas com no máximo 4 alunos
+# Preços acessíveis
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
+### Método Prof Karin
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Com um conteúdo divertido e certo para a idade, as aulas são feitas uma vez por semana em linguagem baseada em Javascript, uma das linguagens mais usadas em programação.
+É necessário ter um computador com aúdio, câmera e acesso a internet para que as aulas sejam feitas. Marque uma aula teste e tire todas as suas dúvidas!
 
-### Jekyll Themes
+### Primeira turma iniciando em Fevereiro.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/profkarin/profkarin.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Entre em contato com a professora Karin para ter mais detalhes e tirar dúvidas. Não perca esta oportunidade!
 
-### Support or Contact
+https://api.whatsapp.com/send?phone=5521991023219
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
