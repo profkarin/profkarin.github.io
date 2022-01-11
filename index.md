@@ -30,6 +30,6 @@ Com um conteúdo divertido e certo para a idade, as aulas são feitas uma vez po
 ### Contato
 Entre em contato com a professora Karin para ter mais detalhes e tirar dúvidas. Não perca esta oportunidade!
 
-<a href = "https://api.whatsapp.com/send?phone=5521991023219/"> Clique para conversar com a prof Karin no Whatsapp </a>
+<a href = "https://api.whatsapp.com/send?phone=5521991023219/"> Clique aqui para conversar com a prof Karin no Whatsapp </a>
 
 
